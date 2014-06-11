@@ -1,0 +1,4 @@
+bin/*
+lib/*
+native/*
+*.png
